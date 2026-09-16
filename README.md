@@ -1,4 +1,4 @@
-# student-skill-analyzer
+
 # AI Student Skill Analyzer
 
 An AI-powered platform that analyzes a student's projects, GitHub activity, resume, courses, and assessments to build an evidence-based skill profile.
